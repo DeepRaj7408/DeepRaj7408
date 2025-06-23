@@ -43,8 +43,3 @@ I'm a passionate developer from India who enjoys building mobile apps with clean
 
 ---
 
-### 🔥 Coding Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepRaj7408&theme=dark&hide_border=true&background=000000&ring=00aeff&currStreakLabel=00aeff" width="800" alt="GitHub Streak" />
-</p>
