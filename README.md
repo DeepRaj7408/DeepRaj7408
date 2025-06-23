@@ -17,7 +17,7 @@ I'm a passionate developer from India who enjoys building mobile apps with clean
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/YOUR_TWITTER_URL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" alt="X" width="28" />
   </a>
 </p>
 
@@ -39,4 +39,12 @@ I'm a passionate developer from India who enjoys building mobile apps with clean
   <img src="https://github-readme-stats.vercel.app/api?username=DeepRaj7408&show_icons=true&hide_border=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=00aeff&icon_color=00aeff" width="400" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRaj7408&layout=compact&hide_border=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=00aeff&icon_color=00aeff" width="400" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Coding Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepRaj7408&theme=dark&hide_border=true&background=000000&ring=00aeff&currStreakLabel=00aeff" width="800" alt="GitHub Streak" />
 </p>
