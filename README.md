@@ -1,5 +1,12 @@
 # Deep Raj (DeepRaj7408)
 
+I'm a passionate developer from India who enjoys building mobile apps with clean UI and strong architecture. Currently focusing on React Native and Node.js development.
+
+- 🔭 Working on a **free VPN app** in React Native  
+- 🌱 Learning **Kotlin**, **Rust**, and **DevOps tools**  
+- 👯 Open to collaboration on mobile & backend projects  
+- 📫 Reach out: **dee2005p@gmail.com**
+
 <p align="right">
   <a href="https://www.linkedin.com/in/deep-raj-97ba1b357/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
@@ -13,13 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
   </a>
 </p>
-
-I'm a passionate developer from India who enjoys building mobile apps with clean UI and strong architecture. Currently focusing on React Native and Node.js development.
-
-- 🔭 Working on a **free VPN app** in React Native  
-- 🌱 Learning **Kotlin**, **Rust**, and **DevOps tools**  
-- 👯 Open to collaboration on mobile & backend projects  
-- 📫 Reach out: **dee2005p@gmail.com**
 
 ---
 
