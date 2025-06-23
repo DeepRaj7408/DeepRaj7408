@@ -1,20 +1,18 @@
 # Deep Raj (DeepRaj7408)
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/deep-raj-97ba1b357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:dee2005p@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/YOUR_TWITTER_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
   </a>
 </p>
-
----
-
-### 👨‍💻 About Me
 
 I'm a passionate developer from India who enjoys building mobile apps with clean UI and strong architecture. Currently focusing on React Native and Node.js development.
 
@@ -38,8 +36,7 @@ I'm a passionate developer from India who enjoys building mobile apps with clean
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeepRaj7408&show_icons=true&hide_border=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=00aeff&icon_color=00aeff" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRaj7408&layout=compact&hide_border=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=00aeff&icon_color=00aeff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepRaj7408&show_icons=true&hide_border=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=00aeff&icon_color=00aeff" width="400" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRaj7408&layout=compact&hide_border=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=00aeff&icon_color=00aeff" width="400" alt="Top Languages" />
 </p>
-
----
